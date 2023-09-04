@@ -10,14 +10,15 @@ It has been designed to be more visually appealing, improved in functionality, a
 ![web-view](https://github.com/karan-panda/ACM-TCET-Website2.0/assets/108183567/80adb0ff-4879-40dc-9ca4-48eb6d60f864)
 
 ## Created by - 
-### TE Heads: 
-1. Karan Panda
-2. Anand Pandey
-3. Nandini Yadav
-4. Nidhi Singh
 
-### SE Team:
-1. Rohan Prajapati (Web Master)
-2. Aaryan Singh
-3. Parshad Keni
-4. Aditya Gupta
+1. Karan Panda (Team lead)
+2. Anand Pandey (Team lead)
+3. Rohan Prajapati (Web master)
+
+1. Nandini Yadav (TE technical)
+2. Nidhi Singh (TE technical)
+3. Aaryan Singh (SE technical)
+4. Aditya Gupta (SE technical)
+5. Parshad Keni (SE technical)
+
+ 
