@@ -15,10 +15,10 @@ It has been designed to be more visually appealing, improved in functionality, a
 2. Anand Pandey (Team lead)
 3. Rohan Prajapati (Web master)
 
-1. Nandini Yadav (TE technical)
-2. Nidhi Singh (TE technical)
-3. Aaryan Singh (SE technical)
-4. Aditya Gupta (SE technical)
-5. Parshad Keni (SE technical)
+1. Nandini Yadav (TE)
+2. Nidhi Singh (TE)
+3. Aaryan Singh (SE)
+4. Aditya Gupta (SE)
+5. Parshad Keni (SE)
 
  
