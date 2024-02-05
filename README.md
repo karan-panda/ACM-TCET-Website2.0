@@ -4,7 +4,6 @@ It has been designed to be more visually appealing, improved in functionality, a
 
 ## Replit
 - Check out the code: [Click here](https://replit.com/@KaranPanda/ACM-website-v2)
-- Check out live demo: [Click here](https://acm-website-v2.karanpanda.repl.co)
 
 ## Image of the website
 ![web-view](https://github.com/karan-panda/ACM-TCET-Website2.0/assets/108183567/80adb0ff-4879-40dc-9ca4-48eb6d60f864)
